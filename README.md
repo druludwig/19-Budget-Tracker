@@ -1,7 +1,8 @@
 # 19-Budget-Tracker
- An example of offline/online functionality
+ An example of offline/online functionality.
 
-
-created database in atlas and added variable in heroku
-Used the Atlas UI to view data saved by the app
-App deployed and tested
+## Notes
+- Created database in atlas and added variable to heroku app
+- Used the Atlas UI to confirm data saved by app
+- App fully deployed and tested
+- Updated README coming soon
